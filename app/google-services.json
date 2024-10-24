@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81990840864",
+    "project_id": "locationappnsda",
+    "storage_bucket": "locationappnsda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81990840864:android:9898d1eff23b153f07c245",
+        "android_client_info": {
+          "package_name": "org.freedu.locationappnsda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdP7pf4kXnuZ20Cj90pNYS7jhb7y_burc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
